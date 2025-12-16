@@ -1,5 +1,5 @@
 ```markdown
-# Django URL Shortener API
+# Django URL Shortener 
 
 A complete URL shortening service built with Django and PostgreSQL. Create short links, track analytics, and manage URLs through a RESTful API.
 
