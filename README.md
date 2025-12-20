@@ -1,4 +1,3 @@
-```markdown
 # Django URL Shortener 
 
 A complete URL shortening service built with Django and PostgreSQL. Create short links, track analytics, and manage URLs through a RESTful API.
@@ -32,7 +31,7 @@ GRANT ALL PRIVILEGES ON DATABASE urlshortener TO urluser;
 
 # Exit PostgreSQL
 \q
-```
+
 
 ### Step 2: Setup Project
 
